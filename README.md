@@ -36,8 +36,8 @@ Sou estudante de **Engenharia de Computação** (8º semestre na UNIVESP) e **Fe
 *   🎓 **Graduação em Engenharia de Computação** – UNIVESP *(8º Semestre / Conclusão em breve)*
     *   Foco em engenharia de software, arquitetura de computadores, redes e desenvolvimento de **Projetos Integradores** voltados a problemas reais de TI.
 *   📜 **Certificações & Cursos Relevantes:**
-    *   *Hardware e Software para PC* – Cisco Networking Academy
-    *   *Banco de Dados com MySQL* & *Lógica de Programação e Algoritmos*
+    *   Técnico de Informatica para Internet ( Certificado por qualificação técnica )
+    *   Programaçâo em Python - Senai 
     *   Especialização contínua em manufatura e ferramentaria de precisão.
 
 ---
