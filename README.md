@@ -42,14 +42,5 @@ Sou estudante de **Engenharia de Computação** (8º semestre na UNIVESP) e **Fe
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=gotham" alt="Gustavo's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=gotham" alt="Top Languages" height="160px" />
-</p>
-
----
-
 ### 🤝 Conecte-se Comigo
-*   💼 [LinkedIn]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/gustavo-henrique-r-d-da-silva-1031a2164/))
+*   💼 [LinkedIn]https://www.linkedin.com/in/gustavo-henrique-r-d-da-silva-1031a2164/
