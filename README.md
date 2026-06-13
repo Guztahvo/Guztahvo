@@ -5,7 +5,7 @@
 Sou estudante de **Engenharia de Computação** (8º semestre na UNIVESP) e **Ferramenteiro de Manutenção**. Uno o universo do desenvolvimento de software e hardware com a experiência prática em automação industrial, usinagem e programação CNC.
 
 - ⚙️ **Hardware & IoT:** Experiência prática com manutenção técnica de hardware, eletrônica DIY e reaproveitamento de componentes.
-- 🛠️ **Manufatura Avançada:** Sólido conhecimento em usinagem, ajustagem, programação de tornos e centros de usinagem CNC (sistemas G-Code) e operação de maquinários industriais (como Veker e Haitian).
+- 🛠️ **Manufatura Avançada:** Sólido conhecimento em usinagem, ajustagem e operação de maquinários industriais (como Veker e Haitian).
 - 🖨️ **Impressão 3D & Modelagem:** Entusiasta do ecossistema maker, operando ativamente com fatiadores (Orca Slicer) e hardware (Sovol SV01) aplicados à prototipagem rápida e desenvolvimento de produtos.
 - 🚀 **Desenvolvimento:** Focado em engenharia de software estruturada, lógica de programação, banco de dados e arquitetura de sistemas voltados para soluções inteligentes e automação.
 
@@ -15,8 +15,8 @@ Sou estudante de **Engenharia de Computação** (8º semestre na UNIVESP) e **Fe
 
 *🧪 Conheça algumas das soluções que desenvolvi unindo engenharia, software e design:*
 
-*   **🌱 BioVitro:** Um vaso autoirrigável inovador projetado para otimizar o cuidado botânico com foco em eficiência. Projeto estruturado desde a concepção física até a documentação técnica para registro junto ao INPI.
-*   **📱 Rooted:** Aplicativo de produtividade focado no gerenciamento de rotinas e cuidados com plantas. 
+*   **🌱 BioVitro:** Um vaso autoirrigável inovador projetado para otimizar o cuidado botânico com foco em eficiência. Projeto estruturado desde a concepção física.
+*   **📱 Rooted:** Desenvolvendo um aplicativo de produtividade focado no gerenciamento de rotinas e cuidados com plantas. 
 *   **🏢 Axiom Engenharia Criativa:** Minha iniciativa voltada para serviços especializados de Engenharia Criativa, combinando modelagem, manufatura digital por CNC e Impressão 3D.
 
 ---
